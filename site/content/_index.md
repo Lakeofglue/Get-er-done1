@@ -1,5 +1,5 @@
 ---
-title: "The Lake of Glue"
+title: "The Lake beckons."
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
